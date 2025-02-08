@@ -55,6 +55,10 @@
 
 ### **2️⃣ 프로젝트 수행 내용**
 
-**2-1, 프로젝트 수행 일정**
+**2-1 프로젝트 수행 일정**
 ![image](https://github.com/user-attachments/assets/f4dbb274-f815-4a23-8676-fa06d9b39a4e)
 
+**2-2 프로젝트 구조도**
+![image](https://github.com/user-attachments/assets/336cbf75-b4c3-4b01-a654-4c93b759d5d6)
+CCTV의 화재 감지 및 신고   
+근무모의 균열 및 신체 탐지
